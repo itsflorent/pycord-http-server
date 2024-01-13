@@ -10,12 +10,12 @@ with open(os.path.abspath("./README.md"), "r") as file:
 
 
 setup(
-    name="dpy-http-server",
+    name="py-cord-http-server",
     version=server.__version__,
-    description="Efficiently and intuitively create and manage an HTTP web server running in tandem with a discord.py bot",
+    description="Efficiently and intuitively create and manage an HTTP web server running in tandem with a py-cord bot",
     long_description=readme,
     long_description_content_type="text/markdown",
-    url="https://gitlab.com/marwynnsomridhivej/dpy-http-server",
+    url="https://itsflorent.de",
     author=server.__author__,
     license=server.__license__,
     classifiers=[
