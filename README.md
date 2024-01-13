@@ -1,6 +1,6 @@
-# dpy-http-server
-`dpy-http-server` allows for efficient an intuitive creation and management of
-an HTTP web server that runs alongside a discord.py bot.
+# py-cord-http-server
+`pycord-http-server` allows for efficient an intuitive creation and management of
+an HTTP web server that runs alongside a py-cord bot.
 
 ## Key Features
 - Easy to use, yet powerful API the makes spinning up a web server on the same
